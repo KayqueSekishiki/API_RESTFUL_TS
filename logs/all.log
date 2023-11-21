@@ -29,3 +29,13 @@
 2023-11-21 20:36:15:3615 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
 2023-11-21 20:36:18:3618 - [35mhttp[39m: [35mGET /api/teste 200 11 - 1.189 ms[39m
 [35m[39m
+2023-11-21 20:42:47:4247 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 20:42:47:4247 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 20:44:57:4457 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 20:44:57:4457 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 20:46:36:4636 - [35mhttp[39m: [35mGET /api/Movie 404 148 - 1.194 ms[39m
+[35m[39m
+2023-11-21 20:46:52:4652 - [35mhttp[39m: [35mGET /api/movie 404 148 - 0.246 ms[39m
+[35m[39m
+2023-11-21 20:46:59:4659 - [35mhttp[39m: [35mPOST /api/movie 201 155 - 71.191 ms[39m
+[35m[39m
