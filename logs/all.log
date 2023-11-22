@@ -225,3 +225,31 @@
 2023-11-21 22:01:55:155 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
 2023-11-21 22:02:25:225 - [32minfo[39m: [32mConectou ao banco de dados![39m
 2023-11-21 22:02:25:225 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 22:02:35:235 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 22:02:35:235 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 22:03:10:310 - [35mhttp[39m: [35mGET /api/movie 200 659 - 43.818 ms[39m
+[35m[39m
+2023-11-21 22:04:59:459 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 22:04:59:459 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 22:05:14:514 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 22:05:14:514 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 22:05:20:520 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 22:05:20:520 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 22:06:04:64 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 22:06:04:64 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 22:06:21:621 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 22:06:21:621 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 22:06:42:642 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 22:06:42:642 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 22:07:36:736 - [32minfo[39m: [32mErro no sistema: Cast to ObjectId failed for value "655d435aeebad5c9c0fe44d" (type string) at path "_id" for model "Movie"[39m
+2023-11-21 22:07:36:736 - [35mhttp[39m: [35mDELETE /api/movie/655d435aeebad5c9c0fe44d 500 39 - 4.453 ms[39m
+[35m[39m
+2023-11-21 22:09:26:926 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 22:09:26:926 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 22:10:10:1010 - [32minfo[39m: [32mErro no sistema: movie.delete is not a function[39m
+2023-11-21 22:10:10:1010 - [35mhttp[39m: [35mDELETE /api/movie/655d435aeebad5c9c0fe44df 500 39 - 63.486 ms[39m
+[35m[39m
+2023-11-21 22:10:17:1017 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 22:10:17:1017 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 22:10:19:1019 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 22:10:19:1019 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
