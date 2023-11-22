@@ -1,1 +1,7 @@
 2023-11-21 20:27:44:2744 - [31merror[39m: [31mNão foi possivel conectar![39m
+2023-11-21 21:23:53:2353 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2023-11-21 21:23:57:2357 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2023-11-21 21:24:54:2454 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2023-11-21 21:24:57:2457 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2023-11-21 21:25:52:2552 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2023-11-21 21:26:21:2621 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m

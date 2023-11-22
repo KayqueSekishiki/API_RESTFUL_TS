@@ -97,3 +97,51 @@
 2023-11-21 21:13:07:137 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
 2023-11-21 21:13:18:1318 - [32minfo[39m: [32mConectou ao banco de dados![39m
 2023-11-21 21:13:18:1318 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 21:14:30:1430 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 21:14:30:1430 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 21:16:18:1618 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-11-21 21:16:34:1634 - [35mhttp[39m: [35mGET /api/teste 200 11 - 1.038 ms[39m
+[35m[39m
+2023-11-21 21:20:36:2036 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 21:20:36:2036 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 21:20:47:2047 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 21:20:47:2047 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 21:21:41:2141 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 21:21:41:2141 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 21:22:17:2217 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 21:22:17:2217 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 21:23:53:2353 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2023-11-21 21:23:57:2357 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2023-11-21 21:24:02:242 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 21:24:02:242 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 21:24:03:243 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 21:24:03:243 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 21:24:05:245 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 21:24:05:245 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 21:24:06:246 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 21:24:06:246 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 21:24:10:2410 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 21:24:10:2410 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 21:24:33:2433 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 21:24:33:2433 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 21:24:54:2454 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2023-11-21 21:24:57:2457 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2023-11-21 21:24:58:2458 - [35mhttp[39m: [35mGET /api/movie/1 - - - - ms[39m
+[35m[39m
+2023-11-21 21:25:23:2523 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 21:25:23:2523 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 21:25:34:2534 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 21:25:34:2534 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 21:25:39:2539 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 21:25:39:2539 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 21:25:52:2552 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2023-11-21 21:25:54:2554 - [35mhttp[39m: [35mGET /api/movie/1 - - - - ms[39m
+[35m[39m
+2023-11-21 21:26:19:2619 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-11-21 21:26:19:2619 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2023-11-21 21:26:21:2621 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2023-11-21 21:26:27:2627 - [35mhttp[39m: [35mGET /api/movie/1 - - - - ms[39m
+[35m[39m
+2023-11-21 21:26:38:2638 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
