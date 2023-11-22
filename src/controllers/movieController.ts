@@ -46,8 +46,9 @@ export async function removeMovie(req: Request, res: Response) {
     if (!movie) {
       return res.status(404).json({ error: "O filme não existe." });
     }
+    console.log(movie);
 
-    await movie.delete();
+    await movie.deleteOne();
     return res.status(200).json({ msg: "Filme removido com sucesso!" });
   } catch (e: any) {
     Logger.info(`Erro no sistema: ${e.message}`);
