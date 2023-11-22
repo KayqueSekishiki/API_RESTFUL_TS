@@ -6,7 +6,7 @@ export const movieCreateValidation = () => {
       .isString()
       .withMessage("O título é obrigatório.")
       .isLength({ min: 5 })
-      .withMessage("O título precisa ter no mínino cinco caracteres"),
+      .withMessage("O título precisa ter no mínimo 5 caracteres."),
     body("rating")
       .isNumeric()
       .withMessage("A nota precisa ser um número.")
